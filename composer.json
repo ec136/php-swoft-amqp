@@ -1,5 +1,5 @@
 {
-  "name": "swoft/amqp",
+  "name": "haihua/swoftamqp",
   "type": "library",
   "version": "v2.0.6",
   "keywords": [
@@ -19,7 +19,7 @@
     }
   },
   "require-dev": {
-    "phpunit/phpunit": "^7.5"
+    "phpunit/phpunit": "^7.1"
   },
   "autoload-dev": {
     "psr-4": {
