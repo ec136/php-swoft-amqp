@@ -22,14 +22,5 @@
   },
   "require-dev": {
     "phpunit/phpunit": "^7.5"
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "SwoftTest\\Amqp\\Unit\\": "test/unit/",
-      "SwoftTest\\Amqp\\Testing\\": "test/testing/"
-    }
-  },
-  "scripts": {
-    "test": "./vendor/bin/phpunit -c phpunit.xml"
   }
 }
