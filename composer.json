@@ -18,15 +18,6 @@
       "Swoft\\Amqp\\": "src/"
     }
   },
-  "require-dev": {
-    "phpunit/phpunit": "^7.1"
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "SwoftTest\\Amqp\\Unit\\": "test/unit/",
-      "SwoftTest\\Amqp\\Testing\\": "test/testing/"
-    }
-  },
   "repositories": {
   },
   "scripts": {
