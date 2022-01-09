@@ -16,7 +16,7 @@ namespace SwoftTest\Amqp\Unit;
  *
  * @since 2.0
  */
-class PacketTest
+class Test
 {
     public function testA(): void
     {
