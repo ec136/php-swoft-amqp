@@ -17,10 +17,5 @@
     "psr-4": {
       "Swoft\\Amqp\\": "src/"
     }
-  },
-  "repositories": {
-  },
-  "scripts": {
-    "test": "./vendor/bin/phpunit -c phpunit.xml"
   }
 }
